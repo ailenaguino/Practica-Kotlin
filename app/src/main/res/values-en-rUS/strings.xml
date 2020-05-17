@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="cambiar_color">Change Color</string>
+    <string name="ir_a_nuevo_activity">Go to new Activity</string>
+    <string name="volver">Back</string>
+    <string name="esta_es_una_nueva_activity">This is a new Activity</string>
+    <string name="esta_accion_no_se_puede_realizar">You cant go back in this way</string>
+</resources>

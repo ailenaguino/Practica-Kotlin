@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="label">lbl</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="cambiar_color">Cambiar Color</string>
+    <string name="ir_a_nuevo_activity">Ir a nuevo activity</string>
+    <string name="volver">Volver</string>
+    <string name="esta_es_una_nueva_activity">Esta es una nueva Activity</string>
+    <string name="esta_accion_no_se_puede_realizar">No se puede volver de esta forma</string>
+    <string name="buscar">Buscar</string>
+    <string name="ir_a_picasso">Ir a picasso</string>
+</resources>
